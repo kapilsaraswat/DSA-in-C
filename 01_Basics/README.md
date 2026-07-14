@@ -1,10 +1,16 @@
-# Basics of C
-
-This folder contains basic C programming examples covered during my college DSA training.
+# Day 1 - Basics of C
 
 ## Programs
-- Hello World
+
+1. Swap Two Numbers
+2. Calculator using Switch Case
+3. Fahrenheit to Celsius Conversion
+4. Area of Different Shapes
+
+## Concepts Learned
+
 - Variables
-- Data Types
 - Input / Output
-- Operators
+- Arithmetic Operators
+- Switch Case
+- Formula Based Programs
